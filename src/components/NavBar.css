@@ -1,0 +1,20 @@
+/* Minimal styles for NavBar component to satisfy import and basic layout */
+.navbar {
+  background: transparent;
+}
+
+@media (min-width: 1024px) {
+  .navbar .menu-horizontal {
+    display: flex;
+  }
+}
+
+/* When navbar has a backdrop or shadow, ensure transitions are smooth */
+.navbar {
+  transition: background-color 200ms ease, box-shadow 200ms ease;
+}
+
+/* Utility in case content needs spacing from sticky navbar */
+.page-top-padding {
+  padding-top: 72px; /* adjust if your navbar height differs */
+}

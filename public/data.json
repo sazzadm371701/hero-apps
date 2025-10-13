@@ -1,0 +1,542 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b",
+    "title": "WeatherMaster Pro",
+    "companyName": "ClimateTech Solutions",
+    "id": 1,
+    "description": "WeatherMaster Pro delivers hyper-local weather forecasts with pinpoint accuracy using advanced radar technology and machine learning algorithms. Our app provides real-time severe weather alerts for your exact location, including tornado warnings, flood advisories, and storm notifications. You can access detailed hourly forecasts for the next 48 hours and reliable 10-day outlooks to plan your activities with confidence. The interactive radar maps show precipitation patterns, storm movements, and temperature gradients with stunning visual clarity. We include specialized forecasts for outdoor activities like hiking, fishing, and sports events with specific recommendations. The app also features historical weather data, climate trends, and personalized weather insights based on your preferences. With global coverage and offline functionality, WeatherMaster Pro ensures you're always prepared for whatever weather comes your way.",
+    "size": 85,
+    "reviews": 45000,
+    "ratingAvg": 4.6,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 2700 },
+      { "name": "3 star", "count": 6750 },
+      { "name": "4 star", "count": 13500 },
+      { "name": "5 star", "count": 20250 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b",
+    "title": "FitCoach AI",
+    "companyName": "HealthInnovate Corp",
+    "id": 2,
+    "description": "FitCoach AI revolutionizes personal fitness with artificial intelligence that creates customized workout plans based on your goals, fitness level, and available equipment. The app features detailed exercise demonstrations with proper form guidance to prevent injuries and maximize results. Our nutrition tracking system includes a massive food database and barcode scanner for effortless calorie and macro monitoring. The AI coach adapts your training program in real-time based on your progress, feedback, and performance metrics. You can join live workout classes or follow pre-recorded sessions targeting specific muscle groups or fitness objectives. The community features allow you to connect with friends, join challenges, and share achievements for motivation. FitCoach AI also integrates with popular wearables and health apps to provide a comprehensive view of your wellness journey.",
+    "size": 120,
+    "reviews": 32000,
+    "ratingAvg": 4.7,
+    "downloads": 8500000,
+    "ratings": [
+      { "name": "1 star", "count": 1280 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 9600 },
+      { "name": "5 star", "count": 14720 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1554048612-b6a482bc67e5",
+    "title": "PhotoGenius Pro",
+    "companyName": "Creative Vision Labs",
+    "id": 3,
+    "description": "PhotoGenius Pro offers professional-grade photo editing tools designed for both amateur photographers and seasoned professionals. The app features AI-powered enhancement that automatically improves lighting, color balance, and sharpness with a single tap. You can access advanced editing capabilities including curves, levels, selective color adjustments, and healing tools for precise corrections. Our extensive filter collection includes hundreds of customizable presets and the ability to create and save your own unique styles. The portrait editing suite offers skin smoothing, blemish removal, and facial feature enhancement with natural-looking results. Batch processing allows you to apply edits to multiple photos simultaneously, saving valuable time for photographers. PhotoGenius Pro supports RAW file editing and exports in multiple formats including JPEG, PNG, and TIFF with quality preservation.",
+    "size": 150,
+    "reviews": 28000,
+    "ratingAvg": 4.5,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 1400 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 8400 },
+      { "name": "5 star", "count": 12600 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+    "title": "WealthManager Plus",
+    "companyName": "Financial Intelligence Systems",
+    "id": 4,
+    "description": "WealthManager Plus provides comprehensive financial management tools that help you take control of your money and build long-term wealth. The app automatically categorizes your transactions from linked bank accounts and credit cards for effortless expense tracking. You can create detailed budgets with spending limits for different categories and receive alerts when approaching your limits. Our investment tracking feature monitors your portfolio performance across stocks, bonds, mutual funds, and cryptocurrencies in real-time. The bill reminder system ensures you never miss a payment deadline and helps you avoid late fees. WealthManager Plus generates detailed financial reports and visualizations to help you understand your spending patterns and net worth growth. The app uses bank-level security encryption to protect your sensitive financial information and ensure complete privacy.",
+    "size": 65,
+    "reviews": 18000,
+    "ratingAvg": 4.4,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2700 },
+      { "name": "4 star", "count": 5400 },
+      { "name": "5 star", "count": 8100 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136",
+    "title": "Chef's Companion",
+    "companyName": "Culinary Arts Digital",
+    "id": 5,
+    "description": "Chef's Companion is your ultimate kitchen assistant with thousands of professionally developed recipes from world-renowned chefs and culinary experts. Each recipe includes step-by-step instructions with video demonstrations and voice-guided cooking assistance. The smart shopping list feature automatically generates grocery lists based on your selected recipes and organizes items by store sections. You can customize recipes based on dietary restrictions, available ingredients, or preferred cooking methods with intelligent substitutions. The meal planning tool helps you create weekly menus with nutritional analysis and preparation time estimates. Chef's Companion includes cooking timers for multiple dishes simultaneously and conversion tools for measurements and temperatures. The app also features wine pairing suggestions, technique tutorials, and a community where you can share your culinary creations.",
+    "size": 95,
+    "reviews": 25000,
+    "ratingAvg": 4.8,
+    "downloads": 6800000,
+    "ratings": [
+      { "name": "1 star", "count": 750 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 7500 },
+      { "name": "5 star", "count": 13250 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b",
+    "title": "Mindful Moments",
+    "companyName": "Wellness Journey Inc",
+    "id": 6,
+    "description": "Mindful Moments offers a comprehensive meditation and mindfulness platform designed to reduce stress and improve mental wellbeing through daily practice. The app features guided meditation sessions ranging from 3 to 60 minutes for different experience levels and time constraints. Our sleep section includes bedtime stories, sleep sounds, and wind-down routines to help you achieve restful sleep naturally. The mood tracking feature allows you to monitor your emotional patterns and identify triggers for stress or anxiety. Mindful Moments provides personalized recommendations based on your goals, whether for focus, relaxation, or emotional balance. The progress tracking system shows your meditation streak, total minutes practiced, and milestones achieved. You can join live meditation sessions with expert instructors or participate in community challenges for extra motivation and support.",
+    "size": 75,
+    "reviews": 22000,
+    "ratingAvg": 4.6,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 880 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3300 },
+      { "name": "4 star", "count": 6600 },
+      { "name": "5 star", "count": 10120 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1529338296731-c4280a44fc48",
+    "title": "LinguaMaster Pro",
+    "companyName": "Global Education Networks",
+    "id": 7,
+    "description": "LinguaMaster Pro makes language learning engaging and effective through scientifically proven methods and immersive content. The app offers comprehensive courses in over 30 languages with speech recognition technology that provides instant feedback on pronunciation. Our interactive lessons combine vocabulary building, grammar instruction, and conversational practice in realistic scenarios. The spaced repetition system ensures you review material at optimal intervals for long-term retention. LinguaMaster Pro includes live tutoring sessions with native speakers for practical conversation practice and cultural insights. You can practice reading and listening comprehension with authentic articles, podcasts, and videos from the target language. The app adapts to your learning pace and focuses on areas where you need the most improvement for efficient progress.",
+    "size": 110,
+    "reviews": 35000,
+    "ratingAvg": 4.7,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 1400 },
+      { "name": "2 star", "count": 1750 },
+      { "name": "3 star", "count": 5250 },
+      { "name": "4 star", "count": 10500 },
+      { "name": "5 star", "count": 16100 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1571974599782-87624638275f",
+    "title": "MusicMaker Studio",
+    "companyName": "Audio Creation Labs",
+    "id": 8,
+    "description": "MusicMaker Studio transforms your device into a professional music production workstation with powerful tools for creating, recording, and mixing music. The app features a multi-track recorder that supports unlimited audio and MIDI tracks with professional editing capabilities. You can access hundreds of high-quality virtual instruments, drum machines, and synthesizers for complete musical expression. Our loop library includes thousands of professionally produced samples and loops across all popular genres. The mixing console offers advanced effects including reverb, delay, compression, and EQ with visual feedback. MusicMaker Studio supports external audio interfaces and MIDI controllers for a studio-like experience on the go. You can export your projects in multiple formats and share directly to music platforms or social media with optimized settings.",
+    "size": 180,
+    "reviews": 15000,
+    "ratingAvg": 4.4,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 750 },
+      { "name": "2 star", "count": 750 },
+      { "name": "3 star", "count": 2250 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 6750 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71",
+    "title": "Productivity Pro",
+    "companyName": "Efficiency Systems Ltd",
+    "id": 9,
+    "description": "Productivity Pro combines task management, calendar integration, and habit tracking in one powerful organization system. The app features smart task prioritization that automatically sorts your to-do list based on deadlines, importance, and estimated effort. You can create custom project templates for recurring workflows and collaborate with team members in real-time. Our calendar sync integrates with all major calendar platforms and displays tasks alongside your scheduled events. The habit tracking system helps you build positive routines with reminders, streaks, and progress visualizations. Productivity Pro includes time tracking features that analyze how you spend your time and suggest optimizations. The app also offers focus timers, distraction blocking, and productivity reports to help you work more efficiently and achieve your goals faster.",
+    "size": 55,
+    "reviews": 19000,
+    "ratingAvg": 4.5,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 950 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 2850 },
+      { "name": "4 star", "count": 5700 },
+      { "name": "5 star", "count": 8550 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570",
+    "title": "ReadWell Premium",
+    "companyName": "Digital Library Services",
+    "id": 10,
+    "description": "ReadWell Premium offers an exceptional ebook reading experience with advanced features for book lovers and serious readers. The app supports all major ebook formats including EPUB, PDF, and MOBI with flawless rendering and formatting. You can customize your reading experience with multiple font choices, sizes, spacing options, and color themes including dark mode. Our integrated dictionary and translation tools provide instant definitions and translations without leaving the book. The annotation system allows you to highlight text, add notes, and bookmark important passages for future reference. ReadWell Premium syncs your reading progress, bookmarks, and annotations across all your devices seamlessly. The app also includes reading statistics, goal setting, and social features to share recommendations with fellow readers.",
+    "size": 45,
+    "reviews": 27000,
+    "ratingAvg": 4.6,
+    "downloads": 6100000,
+    "ratings": [
+      { "name": "1 star", "count": 1080 },
+      { "name": "2 star", "count": 1350 },
+      { "name": "3 star", "count": 4050 },
+      { "name": "4 star", "count": 8100 },
+      { "name": "5 star", "count": 12420 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1541745537411-b8046dc6d66c",
+    "title": "RouteMaster Pro",
+    "companyName": "Navigation Technologies",
+    "id": 11,
+    "description": "RouteMaster Pro provides advanced navigation features with real-time traffic updates and intelligent route optimization. The app offers turn-by-turn voice guidance with lane assistance and junction views for complex interchanges. Our live traffic monitoring system detects accidents, road closures, and congestion to suggest faster alternative routes. You can download maps for offline use, ensuring navigation continues even without internet connection. RouteMaster Pro includes points of interest search with detailed information about businesses, attractions, and services. The app features multi-stop trip planning with optimized sequencing to save time and fuel. You can share your estimated arrival time with contacts and receive notifications about their travel progress as well.",
+    "size": 130,
+    "reviews": 42000,
+    "ratingAvg": 4.3,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 3360 },
+      { "name": "2 star", "count": 4200 },
+      { "name": "3 star", "count": 8400 },
+      { "name": "4 star", "count": 12600 },
+      { "name": "5 star", "count": 13440 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+    "title": "SocialSphere",
+    "companyName": "Connectivity Networks",
+    "id": 12,
+    "description": "SocialSphere redefines social networking with enhanced privacy controls and meaningful connection features. The app allows you to create different circles of connections for personal, professional, and interest-based networking. Our advanced content algorithm shows you posts from people who matter most while filtering out noise. You can share photos, videos, and stories with custom privacy settings for each post. SocialSphere includes event planning tools, group creation, and community building features for organizing activities. The messaging system supports text, voice, and video calls with end-to-end encryption for security. The app also offers digital wellbeing features including usage statistics and focus modes to maintain healthy social media habits.",
+    "size": 105,
+    "reviews": 58000,
+    "ratingAvg": 4.2,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 5800 },
+      { "name": "2 star", "count": 5800 },
+      { "name": "3 star", "count": 11600 },
+      { "name": "4 star", "count": 17400 },
+      { "name": "5 star", "count": 17400 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1591696205602-2f950c417dad",
+    "title": "MindChallenge Pro",
+    "companyName": "Cognitive Science Games",
+    "id": 13,
+    "description": "MindChallenge Pro offers scientifically designed brain games that improve memory, attention, and problem-solving skills through daily practice. The app features over 50 different games targeting specific cognitive functions with adaptive difficulty levels. Our personalized training program adjusts based on your performance to ensure continuous challenge and improvement. You can track your cognitive metrics over time with detailed progress reports and comparative analysis. MindChallenge Pro includes focus training exercises that help enhance concentration and reduce distractions. The app offers insights into your cognitive strengths and areas for development with practical recommendations. You can compete with friends or join global challenges to stay motivated and engaged in your brain training journey.",
+    "size": 80,
+    "reviews": 16000,
+    "ratingAvg": 4.5,
+    "downloads": 4700000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 7200 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+    "title": "SecureVault Pro",
+    "companyName": "CyberSecurity Solutions",
+    "id": 14,
+    "description": "SecureVault Pro provides enterprise-grade password management and digital security features to protect your online identity. The app generates strong, unique passwords for all your accounts and stores them in an encrypted vault. Our automatic form filling feature securely enters your login credentials and personal information on websites and apps. You can securely share passwords and sensitive documents with family members or team members. SecureVault Pro includes dark web monitoring that alerts you if your information appears in data breaches. The emergency access feature allows trusted contacts to access your vault in case of emergency. The app also offers secure notes, digital wallet for payment cards, and two-factor authentication support for comprehensive digital protection.",
+    "size": 40,
+    "reviews": 12000,
+    "ratingAvg": 4.8,
+    "downloads": 3300000,
+    "ratings": [
+      { "name": "1 star", "count": 360 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 6360 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1607082350899-7e105aa886ae",
+    "title": "SmartShopper Pro",
+    "companyName": "Retail Intelligence Systems",
+    "id": 15,
+    "description": "SmartShopper Pro helps you save money and make informed purchasing decisions with advanced price comparison and deal-finding features. The app scans barcodes and product images to instantly compare prices across thousands of online and local retailers. Our price history tracking shows you how product prices have changed over time and predicts future price drops. You can create wish lists and receive alerts when items go on sale or reach your target price. SmartShopper Pro includes coupon and promo code finder that automatically applies discounts at checkout. The product review aggregator collects ratings and reviews from multiple sources for comprehensive evaluation. The app also offers refund tracking for price drops and extended return period monitoring to maximize your savings.",
+    "size": 70,
+    "reviews": 23000,
+    "ratingAvg": 4.4,
+    "downloads": 5900000,
+    "ratings": [
+      { "name": "1 star", "count": 1150 },
+      { "name": "2 star", "count": 1150 },
+      { "name": "3 star", "count": 3450 },
+      { "name": "4 star", "count": 6900 },
+      { "name": "5 star", "count": 10350 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f",
+    "title": "HealthTracker Pro",
+    "companyName": "Medical Monitoring Systems",
+    "id": 16,
+    "description": "HealthTracker Pro provides comprehensive health monitoring with symptom tracking, medication management, and vital sign recording. The app allows you to log symptoms with severity levels and track patterns over time for better health insights. Our medication reminder system ensures you never miss a dose and tracks adherence with detailed reports. You can record vital signs including blood pressure, heart rate, weight, and blood glucose with trend analysis. HealthTracker Pro includes a health journal for noting observations, questions for doctors, and test results. The app generates health reports that you can share with healthcare providers for more informed consultations. You can set health goals, track progress, and receive personalized recommendations based on your health data and objectives.",
+    "size": 60,
+    "reviews": 14000,
+    "ratingAvg": 4.6,
+    "downloads": 3600000,
+    "ratings": [
+      { "name": "1 star", "count": 560 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 6440 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+    "title": "StudyMaster Pro",
+    "companyName": "Educational Technology Group",
+    "id": 17,
+    "description": "StudyMaster Pro revolutionizes learning with smart note-taking, flashcard creation, and study planning tools for students of all levels. The app features intelligent note organization with tags, notebooks, and quick search across all your materials. Our flashcard system uses spaced repetition algorithm to optimize memorization and long-term retention. You can create study schedules with time blocking, goal setting, and progress tracking features. StudyMaster Pro includes document scanning with OCR technology to digitize handwritten notes and printed materials. The collaboration tools allow you to study with classmates, share notes, and work on group projects. The app also offers focus timers, distraction blocking, and study analytics to help you develop effective learning habits and improve academic performance.",
+    "size": 90,
+    "reviews": 19000,
+    "ratingAvg": 4.5,
+    "downloads": 4400000,
+    "ratings": [
+      { "name": "1 star", "count": 950 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 2850 },
+      { "name": "4 star", "count": 5700 },
+      { "name": "5 star", "count": 8550 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c",
+    "title": "NewsHub Pro",
+    "companyName": "Media Intelligence Corp",
+    "id": 18,
+    "description": "NewsHub Pro delivers personalized news from trusted sources worldwide with advanced filtering and organization features. The app aggregates content from thousands of reputable news outlets and categorizes stories by topic and importance. Our AI-powered algorithm learns your interests and prioritizes stories most relevant to you. You can create custom news feeds for specific topics, companies, or regions that matter to you. NewsHub Pro includes fact-checking features that verify information and flag potentially unreliable sources. The offline reading mode downloads selected articles for access without internet connection. The app also offers audio versions of articles, newsletter creation, and social sharing features for comprehensive news consumption and distribution.",
+    "size": 55,
+    "reviews": 21000,
+    "ratingAvg": 4.3,
+    "downloads": 5100000,
+    "ratings": [
+      { "name": "1 star", "count": 1470 },
+      { "name": "2 star", "count": 1470 },
+      { "name": "3 star", "count": 3150 },
+      { "name": "4 star", "count": 6300 },
+      { "name": "5 star", "count": 8610 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b",
+    "title": "QuickBite Pro",
+    "companyName": "Food Delivery Networks",
+    "id": 19,
+    "description": "QuickBite Pro offers fast food delivery from thousands of restaurants with intelligent recommendations and seamless ordering experience. The app features real-time order tracking that shows your food's journey from restaurant to your doorstep. Our personalized recommendation engine suggests restaurants and dishes based on your taste preferences and order history. You can filter restaurants by cuisine, delivery time, ratings, and dietary requirements for perfect matches. QuickBite Pro includes group ordering features that make it easy to coordinate meals with family, friends, or colleagues. The app offers multiple payment options including credit cards, digital wallets, and cash with secure transaction processing. You can schedule orders in advance, set favorite restaurants, and earn rewards with our loyalty program for frequent users.",
+    "size": 75,
+    "reviews": 47000,
+    "ratingAvg": 4.2,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 4700 },
+      { "name": "2 star", "count": 4700 },
+      { "name": "3 star", "count": 9400 },
+      { "name": "4 star", "count": 14100 },
+      { "name": "5 star", "count": 14100 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1587560699334-cc4ff634909a",
+    "title": "Calendar Genius",
+    "companyName": "Scheduling Solutions Inc",
+    "id": 20,
+    "description": "Calendar Genius provides intelligent scheduling and time management features that help you optimize your daily routine and productivity. The app automatically imports events from all your connected calendars and presents them in unified views. Our smart scheduling feature finds optimal meeting times by analyzing participants' availability and preferences. You can create time blocks for focused work, personal activities, and breaks with color coding and categories. Calendar Genius includes natural language event creation that understands phrases like 'lunch with Sarah next Thursday at 1pm'. The analytics feature provides insights into how you spend your time and suggests improvements. The app also offers weather integration, location-based reminders, and travel time calculations for comprehensive schedule management.",
+    "size": 50,
+    "reviews": 17000,
+    "ratingAvg": 4.5,
+    "downloads": 3900000,
+    "ratings": [
+      { "name": "1 star", "count": 850 },
+      { "name": "2 star", "count": 850 },
+      { "name": "3 star", "count": 2550 },
+      { "name": "4 star", "count": 5100 },
+      { "name": "5 star", "count": 7650 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828",
+    "title": "TripMaster Pro",
+    "companyName": "Adventure Planning Systems",
+    "id": 21,
+    "description": "TripMaster Pro offers comprehensive travel planning with itinerary creation, booking management, and destination research tools. The app helps you plan every aspect of your trip from flights and accommodations to activities and dining reservations. Our intelligent itinerary builder optimizes your daily schedule based on location, opening hours, and your personal preferences. You can store all your travel documents including boarding passes, hotel confirmations, and insurance details in one secure location. TripMaster Pro provides offline access to maps, itineraries, and important travel information. The app includes real-time flight status updates, airport maps, and security wait times for stress-free travel. You can share your travel plans with family and friends and collaborate on group trip planning with ease.",
+    "size": 95,
+    "reviews": 13000,
+    "ratingAvg": 4.6,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1950 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 5980 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3",
+    "title": "Investment Analyst Pro",
+    "companyName": "Financial Markets Intelligence",
+    "id": 22,
+    "description": "Investment Analyst Pro provides advanced stock research and portfolio analysis tools for serious investors and traders. The app offers real-time market data with advanced charting tools and technical indicators for comprehensive analysis. Our screening tools help you find investment opportunities based on hundreds of fundamental and technical criteria. You can access detailed company financials, earnings reports, and analyst ratings for informed decision making. Investment Analyst Pro includes portfolio tracking with performance analytics, risk assessment, and diversification analysis. The news aggregation feature delivers relevant financial news and market-moving information from trusted sources. The app also offers options analysis, dividend tracking, and educational resources to enhance your investment knowledge and skills.",
+    "size": 85,
+    "reviews": 9000,
+    "ratingAvg": 4.4,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1350 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4050 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b",
+    "title": "GardenMaster Pro",
+    "companyName": "Green Thumb Technologies",
+    "id": 23,
+    "description": "GardenMaster Pro is the ultimate gardening companion with plant identification, care guidance, and garden planning features. The app uses advanced image recognition to identify plants, diseases, and pests from photos with high accuracy. Our plant care database provides detailed instructions for watering, fertilizing, pruning, and seasonal maintenance. You can create virtual layouts of your garden and track plant growth and health over time. GardenMaster Pro includes personalized planting calendars based on your location and climate zone. The pest and disease library helps you diagnose problems and find organic treatment solutions. The app also offers community features where you can share gardening successes, ask questions, and learn from experienced gardeners worldwide.",
+    "size": 70,
+    "reviews": 11000,
+    "ratingAvg": 4.7,
+    "downloads": 2600000,
+    "ratings": [
+      { "name": "1 star", "count": 330 },
+      { "name": "2 star", "count": 440 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 5830 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1536240478700-b869070f9279",
+    "title": "VideoStudio Ultimate",
+    "companyName": "Creative Video Labs",
+    "id": 24,
+    "description": "VideoStudio Ultimate offers professional video editing capabilities with advanced effects, multi-track timeline, and 4K export options. The app features a comprehensive editing suite with precision trimming, splitting, and merging tools for flawless video production. Our effects library includes transitions, filters, titles, and motion graphics that can be customized to match your creative vision. You can work with multiple video and audio tracks for complex editing projects with layered elements. VideoStudio Ultimate supports keyframe animation for creating smooth movements and dynamic effects. The color grading tools offer professional-level control over color correction and stylistic looks. The app also includes audio mixing, voiceover recording, and direct sharing to social media platforms with optimized settings.",
+    "size": 200,
+    "reviews": 14000,
+    "ratingAvg": 4.5,
+    "downloads": 4100000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 6300 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55",
+    "title": "SleepScience Pro",
+    "companyName": "Wellness Research Labs",
+    "id": 25,
+    "description": "SleepScience Pro provides advanced sleep tracking and analysis with personalized recommendations for better sleep quality. The app uses sound analysis and motion detection to monitor your sleep stages and patterns throughout the night. Our smart alarm wakes you during your lightest sleep phase within a set time window for natural awakening. You can track factors affecting your sleep including caffeine intake, exercise, and screen time with correlation analysis. SleepScience Pro generates detailed sleep reports with scores, trends, and actionable insights for improvement. The app includes a library of sleep sounds, guided relaxations, and bedtime stories to help you fall asleep faster. You can set sleep goals, track progress, and receive personalized recommendations based on your sleep data and lifestyle factors.",
+    "size": 65,
+    "reviews": 12000,
+    "ratingAvg": 4.6,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 480 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 5520 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+    "title": "BudgetTracker Pro",
+    "companyName": "Financial Planning Systems",
+    "id": 26,
+    "description": "BudgetTracker Pro revolutionizes personal finance management with intelligent budgeting tools and expense tracking features. The app automatically syncs with your bank accounts and credit cards to categorize transactions in real-time. You can set monthly budgets for different spending categories and receive alerts when you're approaching your limits. Our advanced reporting system generates detailed charts and graphs to visualize your spending patterns and financial health. The app includes bill payment reminders to help you avoid late fees and maintain good credit. BudgetTracker Pro also offers goal setting features for saving towards specific objectives like vacations, emergency funds, or major purchases. With bank-level security encryption, your financial data remains completely protected and private at all times.",
+    "size": 58,
+    "reviews": 18500,
+    "ratingAvg": 4.5,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 740 },
+      { "name": "2 star", "count": 925 },
+      { "name": "3 star", "count": 2775 },
+      { "name": "4 star", "count": 5550 },
+      { "name": "5 star", "count": 8510 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1576671414121-aa0fb4c5bc6e",
+    "title": "Workout Planner Pro",
+    "companyName": "Fitness Innovation Labs",
+    "id": 27,
+    "description": "Workout Planner Pro delivers personalized fitness programs tailored to your specific goals, equipment availability, and fitness level. The app features comprehensive exercise libraries with video demonstrations and detailed form instructions for each movement. You can create custom workout routines or choose from hundreds of pre-designed programs targeting different objectives. Our progress tracking system monitors your strength gains, endurance improvements, and body measurements over time. The app includes integrated rest timers and workout logging to ensure you maintain proper intensity and record your performance. Workout Planner Pro offers nutritional guidance with meal planning tools and macro tracking capabilities. You can connect with certified personal trainers for virtual coaching sessions and personalized feedback on your technique and progress.",
+    "size": 112,
+    "reviews": 22800,
+    "ratingAvg": 4.7,
+    "downloads": 5800000,
+    "ratings": [
+      { "name": "1 star", "count": 684 },
+      { "name": "2 star", "count": 912 },
+      { "name": "3 star", "count": 2736 },
+      { "name": "4 star", "count": 6840 },
+      { "name": "5 star", "count": 11628 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "title": "Document Scanner Pro",
+    "companyName": "Office Productivity Tools",
+    "id": 28,
+    "description": "Document Scanner Pro transforms your smartphone into a powerful portable scanner with advanced document processing capabilities. The app uses intelligent edge detection to automatically capture documents, receipts, and whiteboards with perfect alignment. Our advanced OCR technology converts scanned documents into editable text with remarkable accuracy across multiple languages. You can organize scanned files into custom folders with tags and searchable metadata for easy retrieval. Document Scanner Pro includes powerful editing tools for cropping, rotating, and enhancing document clarity and readability. The app supports multiple export formats including PDF, JPEG, and text files with customizable quality settings. With cloud storage integration and automatic backup features, your important documents remain secure and accessible from any device whenever you need them.",
+    "size": 47,
+    "reviews": 31500,
+    "ratingAvg": 4.6,
+    "downloads": 8900000,
+    "ratings": [
+      { "name": "1 star", "count": 1260 },
+      { "name": "2 star", "count": 1575 },
+      { "name": "3 star", "count": 4725 },
+      { "name": "4 star", "count": 9450 },
+      { "name": "5 star", "count": 14490 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3",
+    "title": "Music Lessons Pro",
+    "companyName": "Creative Music Education",
+    "id": 29,
+    "description": "Music Lessons Pro offers comprehensive music education with interactive lessons for over 20 different instruments and voice training. The app features step-by-step video tutorials taught by professional musicians and certified music instructors. Our real-time pitch detection technology provides instant feedback on your playing accuracy and intonation. You can learn at your own pace with structured courses that progress from beginner to advanced levels. Music Lessons Pro includes sheet music libraries, chord dictionaries, and scale exercises for practical music theory application. The app offers personalized practice routines and progress tracking to keep you motivated and moving forward. With community features and virtual jam sessions, you can connect with other musicians and receive constructive feedback on your musical journey and development.",
+    "size": 135,
+    "reviews": 14200,
+    "ratingAvg": 4.4,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 710 },
+      { "name": "2 star", "count": 710 },
+      { "name": "3 star", "count": 2130 },
+      { "name": "4 star", "count": 4260 },
+      { "name": "5 star", "count": 6390 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "title": "AI Photo Enhancer Pro",
+    "companyName": "Visual Intelligence Labs",
+    "id": 30,
+    "description": "AI Photo Enhancer Pro leverages cutting-edge artificial intelligence to transform your ordinary photos into extraordinary masterpieces with stunning clarity and detail. The app uses advanced neural networks to automatically enhance image quality by reducing noise, improving sharpness, and optimizing colors without losing the original character of your photos. You can restore old and damaged photographs by removing scratches, stains, and fading while preserving precious memories in digital format. Our portrait enhancement features include intelligent skin smoothing, eye enhancement, and natural-looking facial feature adjustments that maintain authenticity. The background enhancement tool can replace blurry or distracting backgrounds with professionally curated scenes or your own custom backgrounds. AI Photo Enhancer Pro supports batch processing to handle multiple images simultaneously, saving you valuable time when working with large photo collections. The app also includes advanced editing controls for manual adjustments, allowing you to fine-tune every aspect of your enhanced images to perfection.",
+    "size": 165,
+    "reviews": 26800,
+    "ratingAvg": 4.7,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 804 },
+      { "name": "2 star", "count": 1072 },
+      { "name": "3 star", "count": 3216 },
+      { "name": "4 star", "count": 8040 },
+      { "name": "5 star", "count": 13668 }
+    ]
+  }
+]
