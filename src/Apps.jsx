@@ -1,7 +1,7 @@
 const Apps = () => {
   return (
     <div>
-      <h1>All Apps page</h1>
+      <h1>This is all Apps section</h1>
     </div>
   );
 };

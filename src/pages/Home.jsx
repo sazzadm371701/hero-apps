@@ -1,8 +1,15 @@
 import { FaGooglePlay } from "react-icons/fa";
 import { GrAppleAppStore } from "react-icons/gr";
+import { NavLink } from "react-router";
 import heroImg from "../assets/hero.png";
+import AppCards from "../components/AppCards";
+import useApps from "../Hooks/useApps";
 
 const Home = () => {
+  const { apps } = useApps();
+  // console.log(apps);
+  const appsToShow = apps.slice(0, 6);
+  console.log(appsToShow);
   return (
     <div className="py-10 mx-auto">
       {/* Hero section */}
@@ -10,11 +17,11 @@ const Home = () => {
         {/* Top */}
         <div className="flex flex-col flex-auto items-center text-center">
           <h1 className="text-4xl lg:text-6xl font-bold leading-tight mb-3">
-            We Build <br />{" "}
+            We Build <br />
             <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
               Productive
             </span>
-             Apps
+            Apps
           </h1>
           <p className="text-[#627382] text-xl">
             At HERO.IO, we craft innovative apps designed to make everyday life
@@ -73,7 +80,30 @@ const Home = () => {
         </div>
       </div>
       {/* App cards section */}
-      <div></div>
+      <div className="px-6 lg:px-28">
+        <div className="flex flex-col gap-3 my-10">
+          <h2 className="text-4xl font-semibold text-center">Trending Apps</h2>
+          <p className="text-center text-gray-500">
+            Explore All Trending Apps on the Market developed by us
+          </p>
+        </div>
+        <div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {appsToShow.map((app) => (
+              <AppCards key={app.id} app={app} />
+            ))}
+          </div>
+          <NavLink to={"/apps"}>
+            <button
+              type="button"
+              name="showAll"
+              className="w-[120px] flex mx-auto justify-center items-center text-center bg-linear-to-r from-blue-900 to-blue-800 text-white px-2 py-1 hover:shadow-md rounded-md mt-10 cursor-pointer"
+            >
+              Show All
+            </button>
+          </NavLink>
+        </div>
+      </div>
     </div>
   );
 };
