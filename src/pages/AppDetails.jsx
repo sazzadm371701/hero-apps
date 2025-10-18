@@ -412,16 +412,12 @@ const AppDetails = () => {
                       ? "Installed"
                       : `Install Now (${formatNumber(app.size)}MB)`}
                   </button>
-                  {/* persisted badge */}
-                  <span
-                    className={`inline-flex items-center px-2 py-1 text-xs rounded ${
-                      persisted
-                        ? "bg-green-100 text-green-800"
-                        : "bg-yellow-100 text-yellow-800"
-                    }`}
-                  >
-                    {persisted ? "Persisted" : "Local only"}
-                  </span>
+                  {/* persisted badge: only show when data is persisted */}
+                  {persisted && (
+                    <span className="items-center px-2 py-1 text-xs rounded bg-green-100 text-green-800 hidden">
+                      Persisted
+                    </span>
+                  )}
                 </div>
               </div>
             </div>
@@ -435,7 +431,7 @@ const AppDetails = () => {
                     data={chartData}
                     layout="vertical"
                     // give left margin a negative offset so the bars visually start under the 'Ratings' heading
-                    margin={{ top: 5, right: 20, left: -60, bottom: 5 }}
+                    margin={{ top: 5, right: 20, left: -50, bottom: 5 }}
                     barGap={20}
                     barCategoryGap={40}
                   >

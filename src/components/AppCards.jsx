@@ -32,6 +32,8 @@ const AppCards = ({ app }) => {
           src={app.image}
           alt={app.title}
           className="w-full h-48 object-cover rounded"
+          loading="lazy"
+          decoding="async"
         />
         <h3 className="text-xl font-semibold mt-3 text-center">{app.title}</h3>
         <div className="flex justify-between items-center pt-3">
