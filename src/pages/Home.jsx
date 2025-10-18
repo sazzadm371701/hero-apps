@@ -3,13 +3,15 @@ import { GrAppleAppStore } from "react-icons/gr";
 import { NavLink } from "react-router";
 import heroImg from "../assets/hero.png";
 import AppCards from "../components/AppCards";
+import LoeadingSpiner from "../components/LoeadingSpiner";
 import useApps from "../Hooks/useApps";
 
 const Home = () => {
-  const { apps } = useApps();
+  const { apps, loading } = useApps();
   // console.log(apps);
-  const appsToShow = apps.slice(0, 6);
-  console.log(appsToShow);
+  if (loading) return <LoeadingSpiner />;
+
+  const appsToShow = apps.slice(0, 8);
   return (
     <div className="py-10 mx-auto">
       {/* Hero section */}
@@ -20,7 +22,7 @@ const Home = () => {
             We Build <br />
             <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
               Productive
-            </span>
+            </span>{" "}
             Apps
           </h1>
           <p className="text-[#627382] text-xl">
@@ -30,9 +32,9 @@ const Home = () => {
           </p>
           <div className="flex flex-wrap justify-center gap-5 text-xl">
             <a
-              href="https://www.apple.com/app-store/"
+              href="https://play.google.com/store/games?device=windows"
               target="_blank"
-              className="flex items-center gap-2 bg-gray-300 opacity-50 text-black shadow px-6 py-3 rounded-md mt-5 hover:opacity-100 hover:shadow-xl transition cursor-pointer"
+              className="flex items-center gap-2 bg-base-300 text-black shadow px-6 py-3 rounded-md mt-5 hover:shadow-lg transition cursor-pointer"
             >
               <FaGooglePlay />
               <span>Google Play</span>
@@ -40,7 +42,7 @@ const Home = () => {
             <a
               href="https://www.apple.com/app-store/"
               target="_blank"
-              className="flex items-center gap-2 bg-gray-300 opacity-50 text-black shadow px-6 py-3 rounded-md mt-5 hover:opacity-100 hover:shadow-xl transition cursor-pointer"
+              className="flex items-center gap-2 bg-base-300 text-black shadow px-6 py-3 rounded-md mt-5 hover:shadow-lg transition cursor-pointer"
             >
               <GrAppleAppStore />
               <span>App Store</span>
@@ -88,7 +90,7 @@ const Home = () => {
           </p>
         </div>
         <div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {appsToShow.map((app) => (
               <AppCards key={app.id} app={app} />
             ))}

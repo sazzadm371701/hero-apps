@@ -18,3 +18,36 @@
 .page-top-padding {
   padding-top: 72px; /* adjust if your navbar height differs */
 }
+
+/* Nav link: reserve underline space to avoid layout shift on hover */
+.nav-link {
+  position: relative;
+  display: inline-flex; /* align icon and text vertically */
+  align-items: center;
+  gap: 0.25rem;
+  padding-bottom: 0.25rem; /* reserve space for underline */
+  border-bottom: 2px solid transparent; /* reserve the 2px height */
+  line-height: 1; /* avoid baseline shifts */
+}
+
+/* center a 2/3 width underline using pseudo-element */
+.nav-link::after {
+  content: "";
+  position: absolute;
+  right: 0; /* anchor to the right */
+  bottom: 0;
+  width: 66%;
+  height: 2px;
+  background: transparent;
+  transition: background-color 160ms ease, transform 160ms ease;
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+  background: #f59e0b; /* tailwind amber-500 */
+}
+
+.nav-link.active {
+  color: #f59e0b; /* match active text color */
+  font-weight: 600;
+}

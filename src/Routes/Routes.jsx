@@ -1,6 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import Apps from "../Apps";
 import MainLayout from "../Layout/MainLayout";
+import AppDetails from "../pages/AppDetails";
 import ErrorPage from "../pages/ErrorPage";
 import Home from "../pages/Home";
 import Installations from "../pages/Installations";
@@ -10,7 +11,6 @@ const router = createBrowserRouter([
     path: "/",
     element: <MainLayout />,
     errorElement: <ErrorPage />,
-    hydrateFallbackElement: <p>Loading...</p>,
     children: [
       {
         index: true,
@@ -20,6 +20,10 @@ const router = createBrowserRouter([
       {
         path: "/apps",
         element: <Apps />,
+      },
+      {
+        path: "/apps/:id",
+        element: <AppDetails />,
       },
       {
         path: "/installations",
